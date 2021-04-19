@@ -1,4 +1,4 @@
 first
 
 two second master;
-sec;
+changes from  master;
