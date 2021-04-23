@@ -1,4 +1,5 @@
 first
 some work done here;
+change from master;
 two second master;
 changes from  master & for-rebase;
