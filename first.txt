@@ -1,4 +1,4 @@
-change to hard reset second;
+change to hard reset third-to-4;
 first
 some work done here;
 remove from master;
