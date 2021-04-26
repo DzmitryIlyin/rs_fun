@@ -1,3 +1,5 @@
 first;
 second keep reset;
+antoher keep reset;
+more keep reset;
 some other work done on master;
