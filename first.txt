@@ -1,3 +1,4 @@
+change to hard reset;
 first
 some work done here;
 remove from master;
