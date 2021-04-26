@@ -1,4 +1,4 @@
-change to hard reset;
+change to hard reset second;
 first
 some work done here;
 remove from master;
