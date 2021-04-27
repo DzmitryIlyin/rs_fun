@@ -1,4 +1,5 @@
 first;
+another cherry;
 second;
 UPDATE;
 ANOTHER UPDATE;
