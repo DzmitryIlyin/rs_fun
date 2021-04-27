@@ -3,7 +3,6 @@ change to hard reset third-to-4;
 first
 second cherry;
 some work done here;
-remove from master;
 change from for-rebase;
 two second master;
 changes from  master & for-rebase;
