@@ -2,6 +2,7 @@ rebase first;
 another cherry;
 second;
 UPDATE;
+interactive another rebase;
 ANOTHER UPDATE;
 some other work done;
 second keep reset;
