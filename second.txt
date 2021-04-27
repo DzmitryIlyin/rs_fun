@@ -2,3 +2,7 @@ first;
 second keep reset;
 more keep reset;
 some other work done on master;
+second;
+UPDATE;
+ANOTHER UPDATE;
+some other work done;
