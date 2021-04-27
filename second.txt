@@ -3,3 +3,7 @@ second;
 UPDATE;
 ANOTHER UPDATE;
 some other work done;
+second keep reset;
+antoher keep reset;
+more keep reset;
+some other work done on master;
