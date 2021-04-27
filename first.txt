@@ -1,6 +1,7 @@
 cherry-pick fix;
 change to hard reset third-to-4;
 first
+interactive rebase change;
 second cherry;
 some work done here;
 change from for-rebase;
