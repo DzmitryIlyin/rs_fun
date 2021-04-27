@@ -7,3 +7,6 @@ some other work done;
 second keep reset;
 more keep reset;
 some other work done on master;
+second keep reset;
+more keep reset;
+some other work done;
