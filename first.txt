@@ -1,1 +1,6 @@
 first
+some work done here;
+change from master;
+change from for-rebase;
+two second master;
+changes from  master & for-rebase;
