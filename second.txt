@@ -1,4 +1,4 @@
-first;
+rebase first;
 another cherry;
 second;
 UPDATE;
